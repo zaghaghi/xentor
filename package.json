@@ -13,8 +13,11 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
     "core-js": "^3.6.5",
+    "peerjs": "^1.3.1",
     "quasar": "^1.0.0",
-    "vue-i18n": "^8.0.0"
+    "vue-i18n": "^8.0.0",
+    "vue-peerjs": "^0.3.0",
+    "vue-socket.io": "^3.0.10"
   },
   "devDependencies": {
     "@quasar/app": "^2.0.0",
